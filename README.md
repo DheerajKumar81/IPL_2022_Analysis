@@ -57,12 +57,24 @@ Some of the visualizations in this project are:
 <li>Boundary Distribution Analysis</li>
 </ul>
 
-⚙️ Installation & Setup
-1️⃣ Clone the Repository
+<h2>⚙️ Installation & Setup</h2>
+
+<h3>1️⃣ Clone the Repository</h3>
+<pre><code>
 git clone https://github.com/your-username/ipl-2022-performance-analysis.git
-2️⃣ Navigate to Project Folder
+</code></pre>
+
+<h3>2️⃣ Navigate to Project Folder</h3>
+<pre><code>
 cd ipl-2022-performance-analysis
-3️⃣ Install Required Libraries
+</code></pre>
+
+<h3>3️⃣ Install Required Libraries</h3>
+<pre><code>
 pip install pandas matplotlib seaborn notebook
-4️⃣ Run the Jupyter Notebook
+</code></pre>
+
+<h3>4️⃣ Run the Jupyter Notebook</h3>
+<pre><code>
 jupyter notebook
+</code></pre>
