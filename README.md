@@ -44,3 +44,25 @@
         <li>Team standings</li>
     </ul>
 
+<h2>📈 Visualizations Included</h2>
+<p>
+Some of the visualizations in this project are:
+</p>
+<ul>
+<li>Top 10 Run Scorers</li>
+<li>Top 10 Wicket Takers</li>
+<li>Team Winning Statistics</li>
+<li>Most Valuable Player Analysis</li>
+<li>Toss Impact on Match Results</li>
+<li>Boundary Distribution Analysis</li>
+</ul>
+
+⚙️ Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/ipl-2022-performance-analysis.git
+2️⃣ Navigate to Project Folder
+cd ipl-2022-performance-analysis
+3️⃣ Install Required Libraries
+pip install pandas matplotlib seaborn notebook
+4️⃣ Run the Jupyter Notebook
+jupyter notebook
