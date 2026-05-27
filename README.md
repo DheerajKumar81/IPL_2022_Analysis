@@ -61,7 +61,7 @@ Some of the visualizations in this project are:
 
 <h3>1️⃣ Clone the Repository</h3>
 <pre><code>
-git clone https://github.com/your-username/ipl-2022-performance-analysis.git
+git clone https://github.com/DheerajKumar1/ipl-2022-performance-analysis.git
 </code></pre>
 
 <h3>2️⃣ Navigate to Project Folder</h3>
